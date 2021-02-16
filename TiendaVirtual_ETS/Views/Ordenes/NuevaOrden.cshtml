@@ -1,0 +1,115 @@
+﻿@model TiendaVirtual_ETS.ViewModels.OrdenViewModels
+
+
+@{
+    ViewBag.Title = "NuevaOrden";
+}
+
+<h2>Nueva Orden</h2>
+<h3>@ViewBag.Error</h3>
+<h3>@ViewBag.Message</h3>
+
+
+@using (Html.BeginForm("NuevaOrden" , "Ordenes", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+
+
+
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Cliente.ClienteID, "ClienteID", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("ClienteID", null, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Cliente.ClienteID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <!-- CREACION DE BOTON -->
+
+        @Html.ActionLink("Agregar Producto", "AgregarProducto", new { }, new { @class = "btn btn-primary" })
+        <input type="submit" value="Guadar Orden" class="btn btn-success" />
+
+    </div>
+
+}
+
+
+<h2>Detalle de Orden</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Producto.Descripcion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Producto.Precio)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Producto.Cantidad)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Producto.Valor)
+        </th>
+     
+        <th></th>
+    </tr>
+
+    @for (int  i = 0; i < Model.Productos.Count; i++)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => Model.Productos[i].Descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => Model.Productos[i].Precio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => Model.Productos[i].Cantidad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => Model.Productos[i].Valor)
+            </td>
+
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = Model.Productos[i].ProductoID }) |
+                @Html.ActionLink("Details", "Details", new { id = Model.Productos[i].ProductoID }) 
+
+            </td>
+        </tr>
+    }
+
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,175 @@
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\TiendaVirtual_ETS.Tests.dll.config
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\TiendaVirtual_ETS.Tests.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\TiendaVirtual_ETS.Tests.pdb
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Newtonsoft.Json.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.Helpers.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.Mvc.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.Razor.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.WebPages.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\TiendaVirtual_ETS.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.Owin.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.Optimization.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.Owin.Security.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Owin.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.Http.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\EntityFramework.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.Http.WebHost.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Net.Http.Formatting.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\TiendaVirtual_ETS.pdb
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\TiendaVirtual_ETS.dll.config
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Newtonsoft.Json.xml
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.Helpers.xml
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.Mvc.xml
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.Razor.xml
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.WebPages.xml
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.Owin.xml
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.Optimization.xml
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.Owin.Security.xml
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.Http.xml
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\EntityFramework.xml
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.Http.WebHost.xml
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Net.Http.Formatting.xml
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\System.Web.Helpers.resources.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\System.Web.Mvc.resources.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\System.Web.Razor.resources.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\System.Web.WebPages.resources.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\Microsoft.Owin.resources.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\System.Web.Optimization.resources.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\Microsoft.AspNet.Identity.Owin.resources.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\Microsoft.Owin.Security.resources.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\System.Web.Http.resources.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\EntityFramework.resources.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\System.Web.Http.WebHost.resources.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\System.Net.Http.Formatting.resources.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\obj\Debug\TiendaVirtual_ETS.Tests.csprojAssemblyReference.cache
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\obj\Debug\TiendaVirtual_ETS.Tests.csproj.CoreCompileInputs.cache
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\obj\Debug\TiendaVirtual_ETS.Tests.csproj.CopyComplete
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\obj\Debug\TiendaVirtual_ETS.Tests.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\obj\Debug\TiendaVirtual_ETS.Tests.pdb
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\WebGrease.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Antlr3.Runtime.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Antlr3.Runtime.pdb
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+Z:\proyectos de programacion II\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\Microsoft.Owin.Security.Facebook.resources.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\TiendaVirtual_ETS.Tests.dll.config
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\TiendaVirtual_ETS.Tests.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\TiendaVirtual_ETS.Tests.pdb
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.Helpers.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.Mvc.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.Razor.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.WebPages.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\TiendaVirtual_ETS.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.Owin.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.Optimization.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Owin.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.Http.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\EntityFramework.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.Http.WebHost.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\WebGrease.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Net.Http.Formatting.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Antlr3.Runtime.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\TiendaVirtual_ETS.pdb
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\TiendaVirtual_ETS.dll.config
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.Helpers.xml
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.Mvc.xml
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.Razor.xml
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.WebPages.xml
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.Owin.xml
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.Optimization.xml
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.Http.xml
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\EntityFramework.xml
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Web.Http.WebHost.xml
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\System.Net.Http.Formatting.xml
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Antlr3.Runtime.pdb
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\System.Web.Helpers.resources.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\System.Web.Mvc.resources.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\System.Web.Razor.resources.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\System.Web.WebPages.resources.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\Microsoft.Owin.resources.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\System.Web.Optimization.resources.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\Microsoft.Owin.Security.resources.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\System.Web.Http.resources.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\EntityFramework.resources.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\Microsoft.Owin.Security.Facebook.resources.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\System.Web.Http.WebHost.resources.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\System.Net.Http.Formatting.resources.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\obj\Debug\TiendaVirtual_ETS.Tests.csprojAssemblyReference.cache
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\obj\Debug\TiendaVirtual_ETS.Tests.csproj.CoreCompileInputs.cache
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\obj\Debug\TiendaVirtual_ETS.Tests.csproj.CopyComplete
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\obj\Debug\TiendaVirtual_ETS.Tests.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\obj\Debug\TiendaVirtual_ETS.Tests.pdb
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.Owin.Security.Google.dll
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\Microsoft.Owin.Security.Google.xml
+E:\trabajos\vs\TiendaVirtual_ETS\TiendaVirtual_ETS.Tests\bin\Debug\es\Microsoft.Owin.Security.Google.resources.dll

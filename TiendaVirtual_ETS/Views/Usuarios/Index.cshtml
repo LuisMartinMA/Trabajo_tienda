@@ -1,0 +1,41 @@
+﻿@model IEnumerable<TiendaVirtual_ETS.ViewModels.UsuarioViewModels>
+
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Administrador De Permisos</h2>
+
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Emial)
+        </th>
+ 
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Emial)
+            </td>
+            <td>
+                @Html.ActionLink("Roles", "Roles", new { usuarioID = item.UsuarioID }) 
+           </td>
+        </tr>
+    }
+
+</table>
+
+
